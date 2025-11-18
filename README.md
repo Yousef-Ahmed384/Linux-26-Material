@@ -50,14 +50,12 @@ Please keep material clear, accurate, and helpful for learners.
 - Self-learners exploring open-source technologies  
 - Anyone who wants structured, reliable learning content  
 
----
 
 ## 🔐 License
 
 This repository is shared under the **MIT License**, unless OSC chooses another.  
 Feel free to reuse and modify the content under the license terms.
 
----
 
 ## 💙 Acknowledgments
 
