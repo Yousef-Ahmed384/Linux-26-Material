@@ -22,8 +22,9 @@ Materials and resources from the OSC Linux '26 season, covering topics taught du
 
 | Session                         | Topic                 |
 | ------------------------------- | --------------------- |
-| [Session 1](lectures/beginner/Session_01) | Introduction to Linux |
-| [Session 2](lectures/beginner/session2/) | Introduction to CLI |
+| [Session 1](lectures/beginner/session1) | Introduction to Linux |
+| [Session 2](lectures/beginner/session2) | Introduction to CLI |
+| [Session 3](lectures/beginner/session3) | Comperation and archiving |
 
 ### Advanced Content 🚀
 
